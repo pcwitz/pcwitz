@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pcwitz
 - 👀 I’m interested in your interest in me
 - 🌱 I’m currently learning
-- 💞️ I’m looking to elaborate collaboration 
+- 💞️ I’m looking to elaborate on collaboration 
 - 📫 Reach me on twitter @pcwitz
 
 <!---
